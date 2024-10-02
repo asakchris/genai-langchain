@@ -6,6 +6,11 @@
 5. Run `ollama pull gemma:2b` to download the model
 6. To test the model, run `ollama run gemma:2b`, it opens a prompt, where we can enter the prompts
 7. To quit the model, run `/bye`
+8. Use `ollama list` to list down all models available in local
 
 
 streamlit run ./02-LangChain-OpenAI-Ollama/app.py
+
+streamlit run 04-ChatHistory/openai_chatbot.py
+
+streamlit run 04-ChatHistory/ollama_chatbot.py
