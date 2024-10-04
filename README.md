@@ -8,6 +8,7 @@
 7. To quit the model, run `/bye`
 8. Use `ollama list` to list down all models available in local
 
+pip install -r requirements.txt
 
 streamlit run ./02-LangChain-OpenAI-Ollama/app.py
 
