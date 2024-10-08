@@ -15,6 +15,7 @@ fastapi
 uvicorn
 sse_starlette
 duckduckgo-search
+tavily-python
 pypdf
 lxml
 bs4
